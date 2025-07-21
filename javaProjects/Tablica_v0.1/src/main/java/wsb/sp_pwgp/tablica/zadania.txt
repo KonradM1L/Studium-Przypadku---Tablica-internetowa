@@ -1,0 +1,2 @@
+1|Zrobić zakupy|false|2025-07-22|średni
+2|Zadzwonić do klienta|true|2025-07-20|wysoki
