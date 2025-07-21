@@ -131,3 +131,7 @@ data class Task(
     val deadline: LocalDate,
     val priority: String
 )
+
+/**
+*Dodano rozbudowaną wersję listy zadań z terminem i priorytetem w Kotlinie
+*/
